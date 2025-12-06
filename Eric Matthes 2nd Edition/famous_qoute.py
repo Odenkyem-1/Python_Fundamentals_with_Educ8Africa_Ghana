@@ -1,0 +1,1 @@
+print('J. Cole once said, "Love yours".')
